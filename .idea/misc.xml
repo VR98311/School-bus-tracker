@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_admin.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_admin_add_driver.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_admindriverpage.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_adminlogin.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_adminstudentpage.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_createacc.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_createadminacc.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_driverlocation.xml" value="0.2" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_driverlogin.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_drivermap.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_driverpage.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_editstudentdetails.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_login.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_main.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_setuppage.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/win10/AndroidStudioProjects/Bustracker1/app/src/main/res/layout/activity_splashscreen.xml" value="0.17255434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
